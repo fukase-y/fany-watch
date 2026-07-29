@@ -232,7 +232,7 @@
       "venue": "ルミネtheよしもと（東京都）",
       "pref": "東京都",
       "date": "2026/08/16(日)",
-      "cast": "テンダラー／ガクテンソク／ヘンダーソン／セルライトスパ／ビスケットブラザーズ／EXIT／ドンデコルテ／ダンビラムーチョ／エバース／エルフ",
+      "cast": "テンダラー／ガクテンソク／ヘンダーソン／セルライトスパ／ビスケットブラザーズ／ダンビラムーチョ／EXIT／ドンデコルテ／エバース／エルフ",
       "notified": true
     },
     "46700": {
@@ -475,7 +475,7 @@
       "venue": "渋谷よしもと漫才劇場（東京都）",
       "pref": "東京都",
       "date": "2026/08/30(日)",
-      "cast": "[企画ライブ]素敵じゃないか／滝音／ドンデコルテ／9番街レトロ／めぞん",
+      "cast": "[企画ライブ]素敵じゃないか／滝音／ドンデコルテ／9番街レトロ／めぞん吉野",
       "notified": true
     },
     "46933": {
@@ -3241,7 +3241,7 @@
       "venue": "大宮ラクーンよしもと劇場（埼玉県）",
       "pref": "埼玉県",
       "date": "2026/09/20(日)",
-      "url": "https://ticket.fany.lol/reception/61894/50328",
+      "url": "https://ticket.fany.lol/reception/61896/50328",
       "sale_url": "https://ticket.fany.lol/reception/61896/50328",
       "matched": "素敵じゃないか",
       "start": "2026/07/31 10:00",
@@ -3276,6 +3276,51 @@
       "matched": "素敵じゃないか",
       "start": "2026/08/01 10:00",
       "start_iso": "2026-08-01T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "45208|2026-07-29T11:00:00+09:00": {
+      "event_id": "45208",
+      "title": "【3日通し券・前半2日通し券・9/21(月)1日券】KOYABU SONIC 2026",
+      "title_venue": "【3日通し券・前半2日通し券・9/21(月)1日券】KOYABU SONIC 2026 インテックス大阪　4号館、5号館（大阪府）",
+      "venue": "インテックス大阪　4号館、5号館（大阪府）",
+      "pref": "大阪府",
+      "date": "2026/09/21(月・祝)",
+      "url": "https://ticket.fany.lol/reception/54840/45208",
+      "sale_url": "https://ticket.fany.lol/reception/54840/45208",
+      "matched": "ドンデコルテ",
+      "start": "2026/07/29 11:00",
+      "start_iso": "2026-07-29T11:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "45209|2026-07-29T11:00:00+09:00": {
+      "event_id": "45209",
+      "title": "【後半2日通し券・9/22(火)1日券】KOYABU SONIC 2026",
+      "title_venue": "【後半2日通し券・9/22(火)1日券】KOYABU SONIC 2026 インテックス大阪　4号館、5号館（大阪府）",
+      "venue": "インテックス大阪　4号館、5号館（大阪府）",
+      "pref": "大阪府",
+      "date": "2026/09/22(火)",
+      "url": "https://ticket.fany.lol/reception/54840/45209",
+      "sale_url": "https://ticket.fany.lol/reception/54840/45209",
+      "matched": "ドンデコルテ",
+      "start": "2026/07/29 11:00",
+      "start_iso": "2026-07-29T11:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "45210|2026-07-29T11:00:00+09:00": {
+      "event_id": "45210",
+      "title": "【9/23(水)1日券】KOYABU SONIC 2026",
+      "title_venue": "【9/23(水)1日券】KOYABU SONIC 2026 インテックス大阪　4号館、5号館（大阪府）",
+      "venue": "インテックス大阪　4号館、5号館（大阪府）",
+      "pref": "大阪府",
+      "date": "2026/09/23(水・祝)",
+      "url": "https://ticket.fany.lol/reception/54840/45210",
+      "sale_url": "https://ticket.fany.lol/reception/54840/45210",
+      "matched": "ドンデコルテ",
+      "start": "2026/07/29 11:00",
+      "start_iso": "2026-07-29T11:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
     }
