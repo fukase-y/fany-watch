@@ -3291,8 +3291,8 @@
       "matched": "ドンデコルテ",
       "start": "2026/07/29 11:00",
       "start_iso": "2026-07-29T11:00:00+09:00",
-      "r1_sent": false,
-      "r2_sent": false
+      "r1_sent": true,
+      "r2_sent": true
     },
     "45209|2026-07-29T11:00:00+09:00": {
       "event_id": "45209",
@@ -3306,8 +3306,8 @@
       "matched": "ドンデコルテ",
       "start": "2026/07/29 11:00",
       "start_iso": "2026-07-29T11:00:00+09:00",
-      "r1_sent": false,
-      "r2_sent": false
+      "r1_sent": true,
+      "r2_sent": true
     },
     "45210|2026-07-29T11:00:00+09:00": {
       "event_id": "45210",
@@ -3321,8 +3321,8 @@
       "matched": "ドンデコルテ",
       "start": "2026/07/29 11:00",
       "start_iso": "2026-07-29T11:00:00+09:00",
-      "r1_sent": false,
-      "r2_sent": false
+      "r1_sent": true,
+      "r2_sent": true
     }
   }
 }
