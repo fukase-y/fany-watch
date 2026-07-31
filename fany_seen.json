@@ -3096,36 +3096,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "50264|2026-07-29T10:00:00+09:00": {
-      "event_id": "50264",
-      "title": "腹が減ってはMは戦えぬ！",
-      "title_venue": "腹が減ってはMは戦えぬ！ 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/09/25(金)",
-      "url": "https://ticket.fany.lol/reception/61679/50264",
-      "sale_url": "https://ticket.fany.lol/reception/61679/50264",
-      "matched": "ドンデコルテ",
-      "start": "2026/07/29 10:00",
-      "start_iso": "2026-07-29T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "50266|2026-07-29T10:00:00+09:00": {
-      "event_id": "50266",
-      "title": "Mを怨みMを憎みMに裏切られそれでもMに振り向いてもらう為・・・",
-      "title_venue": "Mを怨みMを憎みMに裏切られそれでもMに振り向いてもらう為・・・ 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/09/25(金)",
-      "url": "https://ticket.fany.lol/reception/61680/50266",
-      "sale_url": "https://ticket.fany.lol/reception/61680/50266",
-      "matched": "ドンデコルテ",
-      "start": "2026/07/29 10:00",
-      "start_iso": "2026-07-29T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "50029|2026-08-05T10:00:00+09:00": {
       "event_id": "50029",
       "title": "Kiwami極LIVEプラス",
@@ -3156,36 +3126,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "49990|2026-07-29T10:00:00+09:00": {
-      "event_id": "49990",
-      "title": "全国JAPAN",
-      "title_venue": "全国JAPAN 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/09/03(木)",
-      "url": "https://ticket.fany.lol/reception/61393/49990",
-      "sale_url": "https://ticket.fany.lol/reception/61393/49990",
-      "matched": "CITY",
-      "start": "2026/07/29 10:00",
-      "start_iso": "2026-07-29T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "49991|2026-07-29T10:00:00+09:00": {
-      "event_id": "49991",
-      "title": "企画JAPAN－石井担当回－",
-      "title_venue": "企画JAPAN－石井担当回－ 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/09/03(木)",
-      "url": "https://ticket.fany.lol/reception/61395/49991",
-      "sale_url": "https://ticket.fany.lol/reception/61395/49991",
-      "matched": "CITY",
-      "start": "2026/07/29 10:00",
-      "start_iso": "2026-07-29T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "50213|2026-08-10T10:00:00+09:00": {
       "event_id": "50213",
       "title": "吉本新喜劇アキのいぃよぉ ～の感謝祭2026",
@@ -3214,7 +3154,7 @@
       "start": "2026/07/31 10:00",
       "start_iso": "2026-07-31T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "50340|2026-08-01T10:00:00+09:00": {
       "event_id": "50340",
@@ -3245,51 +3185,6 @@
       "start_iso": "2026-08-01T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
-    },
-    "45208|2026-07-29T11:00:00+09:00": {
-      "event_id": "45208",
-      "title": "【3日通し券・前半2日通し券・9/21(月)1日券】KOYABU SONIC 2026",
-      "title_venue": "【3日通し券・前半2日通し券・9/21(月)1日券】KOYABU SONIC 2026 インテックス大阪　4号館、5号館（大阪府）",
-      "venue": "インテックス大阪　4号館、5号館（大阪府）",
-      "pref": "大阪府",
-      "date": "2026/09/21(月・祝)",
-      "url": "https://ticket.fany.lol/reception/54840/45208",
-      "sale_url": "https://ticket.fany.lol/reception/54840/45208",
-      "matched": "ドンデコルテ",
-      "start": "2026/07/29 11:00",
-      "start_iso": "2026-07-29T11:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "45209|2026-07-29T11:00:00+09:00": {
-      "event_id": "45209",
-      "title": "【後半2日通し券・9/22(火)1日券】KOYABU SONIC 2026",
-      "title_venue": "【後半2日通し券・9/22(火)1日券】KOYABU SONIC 2026 インテックス大阪　4号館、5号館（大阪府）",
-      "venue": "インテックス大阪　4号館、5号館（大阪府）",
-      "pref": "大阪府",
-      "date": "2026/09/22(火)",
-      "url": "https://ticket.fany.lol/reception/54840/45209",
-      "sale_url": "https://ticket.fany.lol/reception/54840/45209",
-      "matched": "ドンデコルテ",
-      "start": "2026/07/29 11:00",
-      "start_iso": "2026-07-29T11:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "45210|2026-07-29T11:00:00+09:00": {
-      "event_id": "45210",
-      "title": "【9/23(水)1日券】KOYABU SONIC 2026",
-      "title_venue": "【9/23(水)1日券】KOYABU SONIC 2026 インテックス大阪　4号館、5号館（大阪府）",
-      "venue": "インテックス大阪　4号館、5号館（大阪府）",
-      "pref": "大阪府",
-      "date": "2026/09/23(水・祝)",
-      "url": "https://ticket.fany.lol/reception/54840/45210",
-      "sale_url": "https://ticket.fany.lol/reception/54840/45210",
-      "matched": "ドンデコルテ",
-      "start": "2026/07/29 11:00",
-      "start_iso": "2026-07-29T11:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
     },
     "50385|2026-08-01T10:00:00+09:00": {
       "event_id": "50385",
