@@ -3159,7 +3159,7 @@
       "matched": "CITY",
       "start": "2026/08/04 10:00",
       "start_iso": "2026-08-04T10:00:00+09:00",
-      "r1_sent": false,
+      "r1_sent": true,
       "r2_sent": false
     }
   }
