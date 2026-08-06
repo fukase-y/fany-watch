@@ -2088,6 +2088,15 @@
       "date": "2026/09/12(土)",
       "cast": "矢野・兵動／佐久間一行／ザ・パンチ／バイク川崎バイク／ミキ／素敵じゃないか／ガベジ／他\r\n『時代劇コメディtheよしもと剣喜劇』： 内海仁志／ぼよんぼよん",
       "notified": true
+    },
+    "50828": {
+      "title": "神保町Kakeru翔SP 夏休みSP",
+      "url": "https://ticket.fany.lol/reception/63218/50828",
+      "venue": "神保町よしもと漫才劇場（東京都）",
+      "pref": "東京都",
+      "date": "2026/08/14(金)",
+      "cast": "[ネタ出演者]素敵じゃないか／フジーズ／ド天国／とりせん／他\r\n",
+      "notified": true
     }
   },
   "sales": {
@@ -3133,7 +3142,7 @@
       "venue": "神保町よしもと漫才劇場（東京都）",
       "pref": "東京都",
       "date": "2026/08/13(木)",
-      "url": "https://ticket.fany.lol/reception/63000/50642",
+      "url": "https://ticket.fany.lol/reception/63002/50642",
       "sale_url": "https://ticket.fany.lol/reception/63002/50642",
       "matched": "CITY／素敵じゃないか",
       "start": "2026/08/08 10:00",
@@ -3148,7 +3157,7 @@
       "venue": "新宿シアターモリエール（東京都）",
       "pref": "東京都",
       "date": "2026/08/27(木)",
-      "url": "https://ticket.fany.lol/reception/63010/50646",
+      "url": "https://ticket.fany.lol/reception/63012/50646",
       "sale_url": "https://ticket.fany.lol/reception/63012/50646",
       "matched": "ドンデコルテ",
       "start": "2026/08/11 10:00",
@@ -3156,20 +3165,20 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "50668|2026-08-04T10:00:00+09:00": {
-      "event_id": "50668",
-      "title": "月刊ツーナッカン～今夜はツーマン～",
-      "title_venue": "月刊ツーナッカン～今夜はツーマン～ 歌舞伎町Sparkle（東京都）",
-      "venue": "歌舞伎町Sparkle（東京都）",
+    "50828|2026-08-07T10:00:00+09:00": {
+      "event_id": "50828",
+      "title": "神保町Kakeru翔SP 夏休みSP",
+      "title_venue": "神保町Kakeru翔SP 夏休みSP 神保町よしもと漫才劇場（東京都）",
+      "venue": "神保町よしもと漫才劇場（東京都）",
       "pref": "東京都",
-      "date": "2026/09/06(日)",
-      "url": "https://ticket.fany.lol/reception/63042/50668",
-      "sale_url": "https://ticket.fany.lol/reception/63042/50668",
-      "matched": "CITY",
-      "start": "2026/08/04 10:00",
-      "start_iso": "2026-08-04T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
+      "date": "2026/08/14(金)",
+      "url": "https://ticket.fany.lol/reception/63218/50828",
+      "sale_url": "https://ticket.fany.lol/reception/63218/50828",
+      "matched": "素敵じゃないか",
+      "start": "2026/08/07 10:00",
+      "start_iso": "2026-08-07T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
