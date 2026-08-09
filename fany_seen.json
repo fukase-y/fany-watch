@@ -2052,6 +2052,24 @@
       "date": "2026/11/01(日)",
       "cast": "MC：千原ジュニア\nアシスタント：竹上萌奈（カンテレアナウンサー）\nプレイヤー：ケンドーコバヤシ、錦鯉（長谷川・渡辺）、笑い飯 西田、R藤本、ななまがり 森下、すゑひろがりず（南條・三島）、見取り図（盛山・リリー）、ドンデコルテ 渡辺銀次、ロングコートダディ 堂前、ルシファー吉岡、ほか",
       "notified": true
+    },
+    "51033": {
+      "title": "大喜利 AND THE CITY",
+      "url": "https://ticket.fany.lol/reception/63524/51033",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/09/20(日)",
+      "cast": "CITY／うるとらブギーズ／ななまがり／ゆにばーす",
+      "notified": true
+    },
+    "51034": {
+      "title": "コーナー AND THE CITY",
+      "url": "https://ticket.fany.lol/reception/63528/51034",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/09/20(日)",
+      "cast": "CITY／うるとらブギーズ／ななまがり／ゆにばーす",
+      "notified": true
     }
   },
   "sales": {
@@ -2100,20 +2118,35 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "50828|2026-08-07T10:00:00+09:00": {
-      "event_id": "50828",
-      "title": "神保町Kakeru翔SP 夏休みSP",
-      "title_venue": "神保町Kakeru翔SP 夏休みSP 神保町よしもと漫才劇場（東京都）",
-      "venue": "神保町よしもと漫才劇場（東京都）",
-      "pref": "東京都",
-      "date": "2026/08/14(金)",
-      "url": "https://ticket.fany.lol/reception/63218/50828",
-      "sale_url": "https://ticket.fany.lol/reception/63218/50828",
-      "matched": "素敵じゃないか",
-      "start": "2026/08/07 10:00",
-      "start_iso": "2026-08-07T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
+    "51033|2026-08-14T10:00:00+09:00": {
+      "event_id": "51033",
+      "title": "大喜利 AND THE CITY",
+      "title_venue": "大喜利 AND THE CITY よしもと幕張イオンモール劇場（千葉県）",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/09/20(日)",
+      "url": "https://ticket.fany.lol/reception/63524/51033",
+      "sale_url": "https://ticket.fany.lol/reception/63526/51033",
+      "matched": "CITY",
+      "start": "2026/08/14 10:00",
+      "start_iso": "2026-08-14T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51034|2026-08-14T10:00:00+09:00": {
+      "event_id": "51034",
+      "title": "コーナー AND THE CITY",
+      "title_venue": "コーナー AND THE CITY よしもと幕張イオンモール劇場（千葉県）",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/09/20(日)",
+      "url": "https://ticket.fany.lol/reception/63528/51034",
+      "sale_url": "https://ticket.fany.lol/reception/63530/51034",
+      "matched": "CITY",
+      "start": "2026/08/14 10:00",
+      "start_iso": "2026-08-14T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
