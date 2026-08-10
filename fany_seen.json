@@ -2079,21 +2079,6 @@
       "r1_sent": true,
       "r2_sent": false
     },
-    "50642|2026-08-08T10:00:00+09:00": {
-      "event_id": "50642",
-      "title": "オールウェイズ！漫才劇場の日 1日目",
-      "title_venue": "オールウェイズ！漫才劇場の日 1日目 神保町よしもと漫才劇場（東京都）",
-      "venue": "神保町よしもと漫才劇場（東京都）",
-      "pref": "東京都",
-      "date": "2026/08/13(木)",
-      "url": "https://ticket.fany.lol/reception/63002/50642",
-      "sale_url": "https://ticket.fany.lol/reception/63002/50642",
-      "matched": "CITY／素敵じゃないか",
-      "start": "2026/08/08 10:00",
-      "start_iso": "2026-08-08T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "50646|2026-08-11T10:00:00+09:00": {
       "event_id": "50646",
       "title": "怖い話を怖くなる直前でやめるライブ",
