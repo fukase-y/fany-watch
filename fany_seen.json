@@ -1965,36 +1965,6 @@
     }
   },
   "sales": {
-    "51033|2026-08-14T10:00:00+09:00": {
-      "event_id": "51033",
-      "title": "大喜利 AND THE CITY",
-      "title_venue": "大喜利 AND THE CITY よしもと幕張イオンモール劇場（千葉県）",
-      "venue": "よしもと幕張イオンモール劇場（千葉県）",
-      "pref": "千葉県",
-      "date": "2026/09/20(日)",
-      "url": "https://ticket.fany.lol/reception/63526/51033",
-      "sale_url": "https://ticket.fany.lol/reception/63526/51033",
-      "matched": "CITY",
-      "start": "2026/08/14 10:00",
-      "start_iso": "2026-08-14T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "51034|2026-08-14T10:00:00+09:00": {
-      "event_id": "51034",
-      "title": "コーナー AND THE CITY",
-      "title_venue": "コーナー AND THE CITY よしもと幕張イオンモール劇場（千葉県）",
-      "venue": "よしもと幕張イオンモール劇場（千葉県）",
-      "pref": "千葉県",
-      "date": "2026/09/20(日)",
-      "url": "https://ticket.fany.lol/reception/63530/51034",
-      "sale_url": "https://ticket.fany.lol/reception/63530/51034",
-      "matched": "CITY",
-      "start": "2026/08/14 10:00",
-      "start_iso": "2026-08-14T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "51029|2026-08-20T10:00:00+09:00": {
       "event_id": "51029",
       "title": "福岡よしもとお笑いライブ",
