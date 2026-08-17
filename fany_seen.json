@@ -1940,6 +1940,21 @@
       "start_iso": "2026-08-26T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
+    },
+    "49654|2026-08-18T10:00:00+09:00": {
+      "event_id": "49654",
+      "title": "でら漫才",
+      "title_venue": "でら漫才 渋谷よしもと漫才劇場（東京都）",
+      "venue": "渋谷よしもと漫才劇場（東京都）",
+      "pref": "東京都",
+      "date": "2026/09/30(水)",
+      "url": "https://ticket.fany.lol/reception/64206/49654",
+      "sale_url": "https://ticket.fany.lol/reception/64206/49654",
+      "matched": "素敵じゃないか",
+      "start": "2026/08/18 10:00",
+      "start_iso": "2026-08-18T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
