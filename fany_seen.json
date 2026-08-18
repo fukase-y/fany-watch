@@ -451,15 +451,6 @@
       "cast": "11/8(日)\n\n【メインステージ】\n■漫才万博\nアインシュタイン、金属バット、見取り図 、黒帯、ニッポンの社長、ビスケットブラザーズ、マユリカ、紅しょうが、ドンデコルテ、豪快キャプテン、カベポスター、ダブルヒガシ、バッテリィズ、エバース、ヨネダ2000\n\n■万博盆踊り\nレイザーラモン、藤崎マーケット　ほか\n\n【劇場型パビリオン】\n■表現の表現館\n守谷日和\n\n■Laugh & Beat 館\nDJ レイチェル（吉本新喜劇） ほかゲストあり",
       "notified": true
     },
-    "47121": {
-      "title": "渋谷Kiwami極LIVEプラス＋",
-      "url": "https://ticket.fany.lol/event/47121",
-      "venue": "渋谷よしもと漫才劇場（東京都）",
-      "pref": "東京都",
-      "date": "2026/08/17(月)",
-      "cast": "[ネタ＆コーナーライブ]ダブルヒガシ／ヨネダ2000／CITY／入間国際宣言／kento fukaya／くらげ／世間知らズ／ミカボ／シンクロニシティ／軟水\r\n[ コーナー出演者]MC：ミカボ／ダブルヒガシ／世間知らズ／軟水／ヨネダ2000",
-      "notified": true
-    },
     "48128": {
       "title": "おおみや浴衣夏まつり！－ネタ編－",
       "url": "https://ticket.fany.lol/event/48128",
@@ -1782,6 +1773,24 @@
       "date": "2026/09/16(水)",
       "cast": "アイラブ地球／吉田たち／ドンデコルテ／イチオク／フースーヤ／三遊間／半年記念日",
       "notified": true
+    },
+    "51632": {
+      "title": "沼ツーマン×2",
+      "url": "https://ticket.fany.lol/reception/64138/51632",
+      "venue": "沼津ラクーンよしもと劇場（静岡県）",
+      "pref": "静岡県",
+      "date": "2026/09/18(金)",
+      "cast": "[ネタ]ツーナッカン／ヘンダーソン／CITY／他",
+      "notified": true
+    },
+    "51631": {
+      "title": "おかわり沼ツーマン×2",
+      "url": "https://ticket.fany.lol/reception/64155/51631",
+      "venue": "沼津ラクーンよしもと劇場（静岡県）",
+      "pref": "静岡県",
+      "date": "2026/09/18(金)",
+      "cast": "[ネタ]ツーナッカン／ヘンダーソン／CITY／他",
+      "notified": true
     }
   },
   "sales": {
@@ -1874,6 +1883,36 @@
       "start_iso": "2026-08-18T10:00:00+09:00",
       "r1_sent": true,
       "r2_sent": true
+    },
+    "51632|2026-08-23T10:00:00+09:00": {
+      "event_id": "51632",
+      "title": "沼ツーマン×2",
+      "title_venue": "沼ツーマン×2 沼津ラクーンよしもと劇場（静岡県）",
+      "venue": "沼津ラクーンよしもと劇場（静岡県）",
+      "pref": "静岡県",
+      "date": "2026/09/18(金)",
+      "url": "https://ticket.fany.lol/reception/64138/51632",
+      "sale_url": "https://ticket.fany.lol/reception/64140/51632",
+      "matched": "CITY",
+      "start": "2026/08/23 10:00",
+      "start_iso": "2026-08-23T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51631|2026-08-23T10:00:00+09:00": {
+      "event_id": "51631",
+      "title": "おかわり沼ツーマン×2",
+      "title_venue": "おかわり沼ツーマン×2 沼津ラクーンよしもと劇場（静岡県）",
+      "venue": "沼津ラクーンよしもと劇場（静岡県）",
+      "pref": "静岡県",
+      "date": "2026/09/18(金)",
+      "url": "https://ticket.fany.lol/reception/64155/51631",
+      "sale_url": "https://ticket.fany.lol/reception/64161/51631",
+      "matched": "CITY",
+      "start": "2026/08/23 10:00",
+      "start_iso": "2026-08-23T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
