@@ -1827,6 +1827,24 @@
       "date": "2026/09/23(水・祝)",
       "cast": "[企画ライブ]ケビンス／ゲスト：CITY／kento fukaya／ブラゴーリ／ただならぬ刀",
       "notified": true
+    },
+    "52266": {
+      "title": "五反田会～多田、ビーフン作るってよ～",
+      "url": "https://ticket.fany.lol/reception/64672/52266",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/09/16(水)",
+      "cast": "マルセイユ 津田康平／CITY 小野竜輔",
+      "notified": true
+    },
+    "52214": {
+      "title": "スキンHEAD亀Live",
+      "url": "https://ticket.fany.lol/reception/64487/52214",
+      "venue": "ターミナルプラザことにパトス（北海道）",
+      "pref": "北海道",
+      "date": "2026/10/25(日)",
+      "cast": "スキンヘッドカメラ\nゲスト：タモンズ、CITY",
+      "notified": true
     }
   },
   "sales": {
@@ -1875,21 +1893,6 @@
       "r1_sent": true,
       "r2_sent": true
     },
-    "51235|2026-08-19T10:00:00+09:00": {
-      "event_id": "51235",
-      "title": "漫才ユニットライブ ～カルテット～",
-      "title_venue": "漫才ユニットライブ ～カルテット～ ルミネtheよしもと（東京都）",
-      "venue": "ルミネtheよしもと（東京都）",
-      "pref": "東京都",
-      "date": "2026/10/08(木)",
-      "url": "https://ticket.fany.lol/reception/63908/51235",
-      "sale_url": "https://ticket.fany.lol/reception/63908/51235",
-      "matched": "ドンデコルテ",
-      "start": "2026/08/19 10:00",
-      "start_iso": "2026-08-19T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "51243|2026-08-26T10:00:00+09:00": {
       "event_id": "51243",
       "title": "コットン38％",
@@ -1932,6 +1935,36 @@
       "matched": "CITY",
       "start": "2026/08/23 10:00",
       "start_iso": "2026-08-23T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "52266|2026-08-26T10:00:00+09:00": {
+      "event_id": "52266",
+      "title": "五反田会～多田、ビーフン作るってよ～",
+      "title_venue": "五反田会～多田、ビーフン作るってよ～ よしもと幕張イオンモール劇場（千葉県）",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/09/16(水)",
+      "url": "https://ticket.fany.lol/reception/64672/52266",
+      "sale_url": "https://ticket.fany.lol/reception/64674/52266",
+      "matched": "CITY",
+      "start": "2026/08/26 10:00",
+      "start_iso": "2026-08-26T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "52214|2026-08-22T10:00:00+09:00": {
+      "event_id": "52214",
+      "title": "スキンHEAD亀Live",
+      "title_venue": "スキンHEAD亀Live ターミナルプラザことにパトス（北海道）",
+      "venue": "ターミナルプラザことにパトス（北海道）",
+      "pref": "北海道",
+      "date": "2026/10/25(日)",
+      "url": "https://ticket.fany.lol/reception/64487/52214",
+      "sale_url": "https://ticket.fany.lol/reception/64487/52214",
+      "matched": "CITY",
+      "start": "2026/08/22 10:00",
+      "start_iso": "2026-08-22T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
     }
