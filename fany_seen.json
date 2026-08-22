@@ -1812,51 +1812,6 @@
     }
   },
   "sales": {
-    "51029|2026-08-20T10:00:00+09:00": {
-      "event_id": "51029",
-      "title": "福岡よしもとお笑いライブ",
-      "title_venue": "福岡よしもとお笑いライブ よしもと福岡 大和証券劇場（福岡県）",
-      "venue": "よしもと福岡 大和証券劇場（福岡県）",
-      "pref": "福岡県",
-      "date": "2026/10/31(土)",
-      "url": "https://ticket.fany.lol/reception/63502/51029",
-      "sale_url": "https://ticket.fany.lol/reception/63502/51029",
-      "matched": "ドンデコルテ",
-      "start": "2026/08/20 10:00",
-      "start_iso": "2026-08-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "51030|2026-08-20T10:00:00+09:00": {
-      "event_id": "51030",
-      "title": "福岡よしもとお笑いライブ",
-      "title_venue": "福岡よしもとお笑いライブ よしもと福岡 大和証券劇場（福岡県）",
-      "venue": "よしもと福岡 大和証券劇場（福岡県）",
-      "pref": "福岡県",
-      "date": "2026/10/31(土)",
-      "url": "https://ticket.fany.lol/reception/63502/51030",
-      "sale_url": "https://ticket.fany.lol/reception/63502/51030",
-      "matched": "ドンデコルテ",
-      "start": "2026/08/20 10:00",
-      "start_iso": "2026-08-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "51031|2026-08-20T10:00:00+09:00": {
-      "event_id": "51031",
-      "title": "福岡よしもとお笑いライブ",
-      "title_venue": "福岡よしもとお笑いライブ よしもと福岡 大和証券劇場（福岡県）",
-      "venue": "よしもと福岡 大和証券劇場（福岡県）",
-      "pref": "福岡県",
-      "date": "2026/10/31(土)",
-      "url": "https://ticket.fany.lol/reception/63502/51031",
-      "sale_url": "https://ticket.fany.lol/reception/63502/51031",
-      "matched": "ドンデコルテ",
-      "start": "2026/08/20 10:00",
-      "start_iso": "2026-08-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "51243|2026-08-26T10:00:00+09:00": {
       "event_id": "51243",
       "title": "コットン38％",
