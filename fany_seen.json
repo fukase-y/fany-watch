@@ -1780,7 +1780,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/09/16(水)",
-      "cast": "マルセイユ 津田康平／CITY 小野竜輔",
+      "cast": "トット 多田智佑／マルセイユ 津田康平／CITY 小野竜輔",
       "notified": true
     },
     "52214": {
@@ -1790,6 +1790,33 @@
       "pref": "北海道",
       "date": "2026/10/25(日)",
       "cast": "スキンヘッドカメラ\nゲスト：タモンズ、CITY",
+      "notified": true
+    },
+    "52353": {
+      "title": "全国JAPAN",
+      "url": "https://ticket.fany.lol/reception/64939/52353",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/07(水)",
+      "cast": "CITY／アイロンヘッド／からし蓮根",
+      "notified": true
+    },
+    "52354": {
+      "title": "企画JAPAN－辻井担当回－",
+      "url": "https://ticket.fany.lol/reception/64941/52354",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/07(水)",
+      "cast": "CITY／アイロンヘッド／からし蓮根",
+      "notified": true
+    },
+    "52392": {
+      "title": "素敵じゃないかの漫才グランドチャンピオン",
+      "url": "https://ticket.fany.lol/reception/64970/52392",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/15(木)",
+      "cast": "素敵じゃないか／ソマオ・ミートボール／他",
       "notified": true
     }
   },
@@ -1868,6 +1895,51 @@
       "start_iso": "2026-08-22T10:00:00+09:00",
       "r1_sent": true,
       "r2_sent": true
+    },
+    "52353|2026-09-05T10:00:00+09:00": {
+      "event_id": "52353",
+      "title": "全国JAPAN",
+      "title_venue": "全国JAPAN 大宮ラクーンよしもと劇場（埼玉県）",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/07(水)",
+      "url": "https://ticket.fany.lol/reception/64939/52353",
+      "sale_url": "https://ticket.fany.lol/reception/64939/52353",
+      "matched": "CITY",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "52354|2026-09-05T10:00:00+09:00": {
+      "event_id": "52354",
+      "title": "企画JAPAN－辻井担当回－",
+      "title_venue": "企画JAPAN－辻井担当回－ 大宮ラクーンよしもと劇場（埼玉県）",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/07(水)",
+      "url": "https://ticket.fany.lol/reception/64941/52354",
+      "sale_url": "https://ticket.fany.lol/reception/64941/52354",
+      "matched": "CITY",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "52392|2026-09-05T10:00:00+09:00": {
+      "event_id": "52392",
+      "title": "素敵じゃないかの漫才グランドチャンピオン",
+      "title_venue": "素敵じゃないかの漫才グランドチャンピオン 大宮ラクーンよしもと劇場（埼玉県）",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/15(木)",
+      "url": "https://ticket.fany.lol/reception/64970/52392",
+      "sale_url": "https://ticket.fany.lol/reception/64972/52392",
+      "matched": "素敵じゃないか",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
