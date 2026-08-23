@@ -1240,7 +1240,7 @@
       "venue": "YOSHIMOTO ROPPONGI THEATER（東京都）",
       "pref": "東京都",
       "date": "2026/09/05(土)",
-      "cast": "ドンデコルテ／3時のヒロイン／ハイキングウォーキング／５ＧＡＰ／R藤本／うるとらブギーズ／スクールゾーン／生姜猫／シカノシンプ／あなたとネ",
+      "cast": "ドンデコルテ／3時のヒロイン／ハイキングウォーキング／５ＧＡＰ／R藤本／うるとらブギーズ／スクールゾーン／生姜猫／シカノシンプ／歩子／あなたとネ／ぺ",
       "notified": true
     },
     "49471": {
@@ -1249,7 +1249,7 @@
       "venue": "YOSHIMOTO ROPPONGI THEATER（東京都）",
       "pref": "東京都",
       "date": "2026/09/05(土)",
-      "cast": "ドンデコルテ／3時のヒロイン／ハイキングウォーキング／５ＧＡＰ／R藤本／うるとらブギーズ／スクールゾーン／ケビンス／生姜猫／シカノシンプ",
+      "cast": "ドンデコルテ／3時のヒロイン／ハイキングウォーキング／５ＧＡＰ／R藤本／うるとらブギーズ／スクールゾーン／ケビンス／生姜猫／シカノシンプ／イチキップリン／DOG FOOD PARTY",
       "notified": true
     },
     "50135": {
@@ -1836,6 +1836,51 @@
       "date": "2026/10/07(水)",
       "cast": "[ネタ]あべこうじ／もりやすバンバンビガロ／ツートライブ／ゆにばーす／ミキ／ドンデコルテ／エバース／他",
       "notified": true
+    },
+    "51891": {
+      "title": "ルミネtheよしもと 土日祝１１時の部プレミアム",
+      "url": "https://ticket.fany.lol/reception/64399/51891",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/29(日)",
+      "cast": "中川家／トット／ジェラードン／金属バット／マユリカ／ドンデコルテ／他\r\n【吉本新喜劇】 吉田裕／他",
+      "notified": true
+    },
+    "51892": {
+      "title": "ルミネtheよしもと 土日祝１３時３０分の部プレミアム",
+      "url": "https://ticket.fany.lol/reception/64399/51892",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/29(日)",
+      "cast": "中川家／トット／ジェラードン／金属バット／マユリカ／ドンデコルテ／他\r\n【吉本新喜劇】 吉田裕／他",
+      "notified": true
+    },
+    "51893": {
+      "title": "ルミネtheよしもと 土日祝１６時の部プレミアム",
+      "url": "https://ticket.fany.lol/reception/64399/51893",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/29(日)",
+      "cast": "中川家／トット／ジェラードン／金属バット／マユリカ／ドンデコルテ／他\r\n【吉本新喜劇】 吉田裕／他",
+      "notified": true
+    },
+    "51855": {
+      "title": "ルミネtheよしもと 平日１４時の部 プラス",
+      "url": "https://ticket.fany.lol/reception/64394/51855",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/12(木)",
+      "cast": "COWCOW／銀シャリ／もりやすバンバンビガロ／囲碁将棋／パンサー／ジェラードン／紅しょうが／素敵じゃないか\r\n『FUJIWARA原西×英雄SPユニット』： FUJIWARA 原西孝幸／英雄／兼光タカシ／赤松新",
+      "notified": true
+    },
+    "51856": {
+      "title": "ルミネtheよしもと 平日１６時の部 プラス",
+      "url": "https://ticket.fany.lol/reception/64394/51856",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/12(木)",
+      "cast": "COWCOW／銀シャリ／もりやすバンバンビガロ／囲碁将棋／パンサー／ジェラードン／紅しょうが／素敵じゃないか\r\n『FUJIWARA原西×英雄SPユニット』： FUJIWARA 原西孝幸／英雄／兼光タカシ／赤松新",
+      "notified": true
     }
   },
   "sales": {
@@ -1984,6 +2029,81 @@
       "url": "https://ticket.fany.lol/reception/64927/52307",
       "sale_url": "https://ticket.fany.lol/reception/64931/52307",
       "matched": "ドンデコルテ",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51891|2026-09-05T10:00:00+09:00": {
+      "event_id": "51891",
+      "title": "ルミネtheよしもと 土日祝１１時の部プレミアム",
+      "title_venue": "ルミネtheよしもと 土日祝１１時の部プレミアム ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/29(日)",
+      "url": "https://ticket.fany.lol/reception/64399/51891",
+      "sale_url": "https://ticket.fany.lol/reception/64401/51891",
+      "matched": "ドンデコルテ",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51892|2026-09-05T10:00:00+09:00": {
+      "event_id": "51892",
+      "title": "ルミネtheよしもと 土日祝１３時３０分の部プレミアム",
+      "title_venue": "ルミネtheよしもと 土日祝１３時３０分の部プレミアム ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/29(日)",
+      "url": "https://ticket.fany.lol/reception/64399/51892",
+      "sale_url": "https://ticket.fany.lol/reception/64401/51892",
+      "matched": "ドンデコルテ",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51893|2026-09-05T10:00:00+09:00": {
+      "event_id": "51893",
+      "title": "ルミネtheよしもと 土日祝１６時の部プレミアム",
+      "title_venue": "ルミネtheよしもと 土日祝１６時の部プレミアム ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/29(日)",
+      "url": "https://ticket.fany.lol/reception/64399/51893",
+      "sale_url": "https://ticket.fany.lol/reception/64401/51893",
+      "matched": "ドンデコルテ",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51855|2026-09-05T10:00:00+09:00": {
+      "event_id": "51855",
+      "title": "ルミネtheよしもと 平日１４時の部 プラス",
+      "title_venue": "ルミネtheよしもと 平日１４時の部 プラス ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/12(木)",
+      "url": "https://ticket.fany.lol/reception/64394/51855",
+      "sale_url": "https://ticket.fany.lol/reception/64396/51855",
+      "matched": "素敵じゃないか",
+      "start": "2026/09/05 10:00",
+      "start_iso": "2026-09-05T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "51856|2026-09-05T10:00:00+09:00": {
+      "event_id": "51856",
+      "title": "ルミネtheよしもと 平日１６時の部 プラス",
+      "title_venue": "ルミネtheよしもと 平日１６時の部 プラス ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/11/12(木)",
+      "url": "https://ticket.fany.lol/reception/64394/51856",
+      "sale_url": "https://ticket.fany.lol/reception/64396/51856",
+      "matched": "素敵じゃないか",
       "start": "2026/09/05 10:00",
       "start_iso": "2026-09-05T10:00:00+09:00",
       "r1_sent": false,
