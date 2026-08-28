@@ -2064,36 +2064,6 @@
     }
   },
   "sales": {
-    "51243|2026-08-26T10:00:00+09:00": {
-      "event_id": "51243",
-      "title": "コットン38％",
-      "title_venue": "コットン38％ ルミネtheよしもと（東京都）",
-      "venue": "ルミネtheよしもと（東京都）",
-      "pref": "東京都",
-      "date": "2026/09/25(金)",
-      "url": "https://ticket.fany.lol/reception/63923/51243",
-      "sale_url": "https://ticket.fany.lol/reception/63923/51243",
-      "matched": "CITY／素敵じゃないか",
-      "start": "2026/08/26 10:00",
-      "start_iso": "2026-08-26T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "52266|2026-08-26T10:00:00+09:00": {
-      "event_id": "52266",
-      "title": "五反田会～多田、ビーフン作るってよ～",
-      "title_venue": "五反田会～多田、ビーフン作るってよ～ よしもと幕張イオンモール劇場（千葉県）",
-      "venue": "よしもと幕張イオンモール劇場（千葉県）",
-      "pref": "千葉県",
-      "date": "2026/09/16(水)",
-      "url": "https://ticket.fany.lol/reception/64674/52266",
-      "sale_url": "https://ticket.fany.lol/reception/64674/52266",
-      "matched": "CITY",
-      "start": "2026/08/26 10:00",
-      "start_iso": "2026-08-26T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "52353|2026-09-05T10:00:00+09:00": {
       "event_id": "52353",
       "title": "全国JAPAN",
