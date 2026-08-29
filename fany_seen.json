@@ -3069,7 +3069,7 @@
       "matched": "ドンデコルテ／CITY／素敵じゃないか",
       "start": "2026/08/30 10:00",
       "start_iso": "2026-08-30T10:00:00+09:00",
-      "r1_sent": false,
+      "r1_sent": true,
       "r2_sent": false
     }
   }
