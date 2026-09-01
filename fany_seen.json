@@ -2931,21 +2931,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "51190|2026-08-30T10:00:00+09:00": {
-      "event_id": "51190",
-      "title": "トーキョーマンゲキフェス2026ー渋神三世代決戦ー",
-      "title_venue": "トーキョーマンゲキフェス2026ー渋神三世代決戦ー LINE CUBE SHIBUYA（東京都）",
-      "venue": "LINE CUBE SHIBUYA（東京都）",
-      "pref": "東京都",
-      "date": "2026/09/19(土)",
-      "url": "https://ticket.fany.lol/reception/63814/51190",
-      "sale_url": "https://ticket.fany.lol/reception/63814/51190",
-      "matched": "ドンデコルテ／CITY／素敵じゃないか",
-      "start": "2026/08/30 10:00",
-      "start_iso": "2026-08-30T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "52723|2026-09-04T10:00:00+09:00": {
       "event_id": "52723",
       "title": "よしもとお笑いレストラン",
@@ -2974,7 +2959,7 @@
       "start": "2026/09/01 10:00",
       "start_iso": "2026-09-01T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     }
   }
 }
