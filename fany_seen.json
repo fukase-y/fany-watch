@@ -2859,8 +2859,8 @@
       "matched": "ドンデコルテ／渡辺銀次",
       "start": "2026/09/04 11:00",
       "start_iso": "2026-09-04T11:00:00+09:00",
-      "r1_sent": false,
-      "r2_sent": false
+      "r1_sent": true,
+      "r2_sent": true
     }
   }
 }
