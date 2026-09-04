@@ -1935,6 +1935,15 @@
       "date": "2026/09/05(土)",
       "cast": "[ネタ＆コーナーライブ]ギャロップ／ガベジ／ダブルヒガシ／めぞん／いぬ／CITY／kento fukaya／ゆにばーす／ラニーノーズ／軟水／インテイク\r\n[ コーナー出演者]MC：軟水／CITY／ラニーノーズ／ダブルヒガシ",
       "notified": true
+    },
+    "52952": {
+      "title": "ルミネtheよしもと 若手ネタフェスティバル ",
+      "url": "https://ticket.fany.lol/reception/66616/52952",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/10/11(日)",
+      "cast": "ドンデコルテ／素敵じゃないか／ミカボ／ぶったま／9番街レトロ／ヨネダ2000／金魚番長／ゼロカラン／他",
+      "notified": true
     }
   },
   "sales": {
@@ -2822,6 +2831,36 @@
       "start_iso": "2026-09-04T10:00:00+09:00",
       "r1_sent": true,
       "r2_sent": true
+    },
+    "52952|2026-09-09T10:00:00+09:00": {
+      "event_id": "52952",
+      "title": "ルミネtheよしもと 若手ネタフェスティバル ",
+      "title_venue": "ルミネtheよしもと 若手ネタフェスティバル  ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/10/11(日)",
+      "url": "https://ticket.fany.lol/reception/66616/52952",
+      "sale_url": "https://ticket.fany.lol/reception/66618/52952",
+      "matched": "ドンデコルテ／素敵じゃないか",
+      "start": "2026/09/09 10:00",
+      "start_iso": "2026-09-09T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "48096|2026-09-04T11:00:00+09:00": {
+      "event_id": "48096",
+      "title": "千原ジュニアの座王　東西2大ライブツアー　大阪公演",
+      "title_venue": "千原ジュニアの座王　東西2大ライブツアー　大阪公演 大阪城ホール（大阪府）",
+      "venue": "大阪城ホール（大阪府）",
+      "pref": "大阪府",
+      "date": "2026/11/01(日)",
+      "url": "https://ticket.fany.lol/reception/65610/48096",
+      "sale_url": "https://ticket.fany.lol/reception/65610/48096",
+      "matched": "ドンデコルテ／渡辺銀次",
+      "start": "2026/09/04 11:00",
+      "start_iso": "2026-09-04T11:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
