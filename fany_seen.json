@@ -2763,21 +2763,6 @@
       "r1_sent": true,
       "r2_sent": true
     },
-    "52723|2026-09-04T10:00:00+09:00": {
-      "event_id": "52723",
-      "title": "よしもとお笑いレストラン",
-      "title_venue": "よしもとお笑いレストラン よしもと道頓堀シアター（大阪府）",
-      "venue": "よしもと道頓堀シアター（大阪府）",
-      "pref": "大阪府",
-      "date": "2026/10/04(日)",
-      "url": "https://ticket.fany.lol/reception/66238/52723",
-      "sale_url": "https://ticket.fany.lol/reception/66238/52723",
-      "matched": "ドンデコルテ",
-      "start": "2026/09/04 10:00",
-      "start_iso": "2026-09-04T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "52952|2026-09-09T10:00:00+09:00": {
       "event_id": "52952",
       "title": "ルミネtheよしもと 若手ネタフェスティバル ",
@@ -2792,21 +2777,6 @@
       "start_iso": "2026-09-09T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
-    },
-    "48096|2026-09-04T11:00:00+09:00": {
-      "event_id": "48096",
-      "title": "千原ジュニアの座王　東西2大ライブツアー　大阪公演",
-      "title_venue": "千原ジュニアの座王　東西2大ライブツアー　大阪公演 大阪城ホール（大阪府）",
-      "venue": "大阪城ホール（大阪府）",
-      "pref": "大阪府",
-      "date": "2026/11/01(日)",
-      "url": "https://ticket.fany.lol/reception/65610/48096",
-      "sale_url": "https://ticket.fany.lol/reception/65610/48096",
-      "matched": "ドンデコルテ／渡辺銀次",
-      "start": "2026/09/04 11:00",
-      "start_iso": "2026-09-04T11:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
     }
   }
 }
