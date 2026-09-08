@@ -1809,21 +1809,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "52988|2026-09-06T10:00:00+09:00": {
-      "event_id": "52988",
-      "title": "漫じろうvsコンじろう",
-      "title_venue": "漫じろうvsコンじろう 表現ライブハウス 池袋西口GEKIBA（東京都）",
-      "venue": "表現ライブハウス 池袋西口GEKIBA（東京都）",
-      "pref": "東京都",
-      "date": "2026/10/03(土)",
-      "url": "https://ticket.fany.lol/reception/66749/52988",
-      "sale_url": "https://ticket.fany.lol/reception/66749/52988",
-      "matched": "素敵じゃないか",
-      "start": "2026/09/06 10:00",
-      "start_iso": "2026-09-06T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "53408|2026-09-12T10:00:00+09:00": {
       "event_id": "53408",
       "title": "うるとらブギーズ×セルライトスパ×ドンデコルテ ・・・",
