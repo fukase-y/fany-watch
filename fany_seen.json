@@ -1866,21 +1866,6 @@
     }
   },
   "sales": {
-    "53408|2026-09-12T10:00:00+09:00": {
-      "event_id": "53408",
-      "title": "うるとらブギーズ×セルライトスパ×ドンデコルテ ・・・",
-      "title_venue": "うるとらブギーズ×セルライトスパ×ドンデコルテ ・・・ YOSHIMOTO ROPPONGI THEATER（東京都）",
-      "venue": "YOSHIMOTO ROPPONGI THEATER（東京都）",
-      "pref": "東京都",
-      "date": "2026/10/25(日)",
-      "url": "https://ticket.fany.lol/reception/66946/53408",
-      "sale_url": "https://ticket.fany.lol/reception/66946/53408",
-      "matched": "ドンデコルテ",
-      "start": "2026/09/12 10:00",
-      "start_iso": "2026-09-12T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "53588|2026-09-19T10:00:00+09:00": {
       "event_id": "53588",
       "title": "東京爆音漫才選集",
@@ -1925,36 +1910,6 @@
       "start_iso": "2026-09-19T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
-    },
-    "53574|2026-09-12T10:00:00+09:00": {
-      "event_id": "53574",
-      "title": "よしもと名駅四丁目ライブ 東名阪交流SHOW",
-      "title_venue": "よしもと名駅四丁目ライブ 東名阪交流SHOW ミッドランドスクエアシネマ２スクリーン８（愛知県）",
-      "venue": "ミッドランドスクエアシネマ２スクリーン８（愛知県）",
-      "pref": "愛知県",
-      "date": "2026/10/16(金)",
-      "url": "https://ticket.fany.lol/reception/67105/53574",
-      "sale_url": "https://ticket.fany.lol/reception/67105/53574",
-      "matched": "CITY",
-      "start": "2026/09/12 10:00",
-      "start_iso": "2026-09-12T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "53619|2026-09-12T10:00:00+09:00": {
-      "event_id": "53619",
-      "title": "二本勝負。",
-      "title_venue": "二本勝負。 神保町よしもと漫才劇場（東京都）",
-      "venue": "神保町よしもと漫才劇場（東京都）",
-      "pref": "東京都",
-      "date": "2026/09/16(水)",
-      "url": "https://ticket.fany.lol/reception/67239/53619",
-      "sale_url": "https://ticket.fany.lol/reception/67239/53619",
-      "matched": "素敵じゃないか",
-      "start": "2026/09/12 10:00",
-      "start_iso": "2026-09-12T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
     },
     "53680|2026-09-16T10:00:00+09:00": {
       "event_id": "53680",
