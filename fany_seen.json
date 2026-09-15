@@ -1555,7 +1555,7 @@
       "venue": "ルミネtheよしもと（東京都）",
       "pref": "東京都",
       "date": "2026/10/11(日)",
-      "cast": "ドンデコルテ／素敵じゃないか／ミカボ／ぶったま／9番街レトロ／ヨネダ2000／金魚番長／ゼロカラン／他",
+      "cast": "ドンデコルテ／素敵じゃないか／ミカボ／ぶったま／オフローズ／9番街レトロ／ド桜／ヨネダ2000／金魚番長／ゼロカラン／喫茶ムーン／他",
       "notified": true
     },
     "52988": {
@@ -1764,6 +1764,24 @@
       "date": "2026/09/23(水・祝)",
       "cast": "あべこうじ／ハイキングウォーキング／フルーツポンチ／ライス／スリムクラブ／ヘンダーソン／素敵じゃないか／めぞん／ヨネダ2000",
       "notified": true
+    },
+    "53748": {
+      "title": "おおみや夕方寄席",
+      "url": "https://ticket.fany.lol/reception/67503/53748",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/19(月)",
+      "cast": "囲碁将棋／ジェラードン／アイロンヘッド／ドンデコルテ／エバース",
+      "notified": true
+    },
+    "53747": {
+      "title": "ROCK NETA FES★～芸人がロックフェスの雰囲気でネタを・・・",
+      "url": "https://ticket.fany.lol/reception/67507/53747",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/10/19(月)",
+      "cast": "囲碁将棋／ジェラードン／アイロンヘッド／ドンデコルテ／エバース",
+      "notified": true
     }
   },
   "sales": {
@@ -1774,7 +1792,7 @@
       "venue": "豊洲PIT（東京都）",
       "pref": "東京都",
       "date": "2026/11/06(金)",
-      "url": "https://ticket.fany.lol/reception/67178/53588",
+      "url": "https://ticket.fany.lol/reception/67180/53588",
       "sale_url": "https://ticket.fany.lol/reception/67180/53588",
       "matched": "ドンデコルテ",
       "start": "2026/09/19 10:00",
@@ -1789,7 +1807,7 @@
       "venue": "旭川市民文化会館　大ホール（北海道）",
       "pref": "北海道",
       "date": "2026/11/23(月・祝)",
-      "url": "https://ticket.fany.lol/reception/67203/53601",
+      "url": "https://ticket.fany.lol/reception/67207/53601",
       "sale_url": "https://ticket.fany.lol/reception/67207/53601",
       "matched": "ドンデコルテ",
       "start": "2026/09/19 10:00",
@@ -1804,7 +1822,7 @@
       "venue": "旭川市民文化会館　大ホール（北海道）",
       "pref": "北海道",
       "date": "2026/11/23(月・祝)",
-      "url": "https://ticket.fany.lol/reception/67203/53602",
+      "url": "https://ticket.fany.lol/reception/67207/53602",
       "sale_url": "https://ticket.fany.lol/reception/67207/53602",
       "matched": "ドンデコルテ",
       "start": "2026/09/19 10:00",
@@ -1879,7 +1897,7 @@
       "venue": "YOSHIMOTO ROPPONGI THEATER（東京都）",
       "pref": "東京都",
       "date": "2026/10/03(土)",
-      "url": "https://ticket.fany.lol/reception/67245/53623",
+      "url": "https://ticket.fany.lol/reception/67247/53623",
       "sale_url": "https://ticket.fany.lol/reception/67247/53623",
       "matched": "素敵じゃないか",
       "start": "2026/09/17 10:00",
