@@ -1764,6 +1764,15 @@
       "date": "2026/10/17(土)",
       "cast": "CITY／タモンズ／シシガシラ／他",
       "notified": true
+    },
+    "53753": {
+      "title": "日本語漫才協会",
+      "url": "https://ticket.fany.lol/reception/67522/53753",
+      "venue": "武蔵野芸能劇場　小劇場（東京都）",
+      "pref": "東京都",
+      "date": "2026/10/29(木)",
+      "cast": "素敵じゃないか、野澤輸出、シンクロニシティ、ストレッチーズ（太田プロダクション）、TCクラクション（グレープカンパニー）、キュウ（タイタン）、他",
+      "notified": true
     }
   },
   "sales": {
@@ -1899,6 +1908,21 @@
       "matched": "CITY",
       "start": "2026/09/20 10:00",
       "start_iso": "2026-09-20T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "53753|2026-09-17T10:00:00+09:00": {
+      "event_id": "53753",
+      "title": "日本語漫才協会",
+      "title_venue": "日本語漫才協会 武蔵野芸能劇場　小劇場（東京都）",
+      "venue": "武蔵野芸能劇場　小劇場（東京都）",
+      "pref": "東京都",
+      "date": "2026/10/29(木)",
+      "url": "https://ticket.fany.lol/reception/67522/53753",
+      "sale_url": "https://ticket.fany.lol/reception/67522/53753",
+      "matched": "素敵じゃないか",
+      "start": "2026/09/17 10:00",
+      "start_iso": "2026-09-17T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
     }
