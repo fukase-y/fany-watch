@@ -1710,6 +1710,15 @@
       "date": "2026/10/12(月・祝)",
       "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／スーパーサイズ・ミー／大王／他",
       "notified": true
+    },
+    "53845": {
+      "title": "NANIWA NETA JAM",
+      "url": "https://ticket.fany.lol/reception/67611/53845",
+      "venue": "ルミネtheよしもと（東京都）",
+      "pref": "東京都",
+      "date": "2026/10/21(水)",
+      "cast": "ヘンダーソン／セルライトスパ／CITY／蛙亭／からし蓮根／シモリュウ／ダブルヒガシ／カベポスター／他",
+      "notified": true
     }
   },
   "sales": {
@@ -1758,21 +1767,6 @@
       "r1_sent": true,
       "r2_sent": false
     },
-    "53623|2026-09-17T10:00:00+09:00": {
-      "event_id": "53623",
-      "title": "六本木ブラゴーリパーク",
-      "title_venue": "六本木ブラゴーリパーク YOSHIMOTO ROPPONGI THEATER（東京都）",
-      "venue": "YOSHIMOTO ROPPONGI THEATER（東京都）",
-      "pref": "東京都",
-      "date": "2026/10/03(土)",
-      "url": "https://ticket.fany.lol/reception/67247/53623",
-      "sale_url": "https://ticket.fany.lol/reception/67247/53623",
-      "matched": "素敵じゃないか",
-      "start": "2026/09/17 10:00",
-      "start_iso": "2026-09-17T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "53730|2026-09-20T10:00:00+09:00": {
       "event_id": "53730",
       "title": "CITY石井のお誕生日プレゼント獲得チャレンジ☆",
@@ -1788,20 +1782,20 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "53753|2026-09-17T10:00:00+09:00": {
-      "event_id": "53753",
-      "title": "日本語漫才協会",
-      "title_venue": "日本語漫才協会 武蔵野芸能劇場　小劇場（東京都）",
-      "venue": "武蔵野芸能劇場　小劇場（東京都）",
+    "53845|2026-09-20T10:00:00+09:00": {
+      "event_id": "53845",
+      "title": "NANIWA NETA JAM",
+      "title_venue": "NANIWA NETA JAM ルミネtheよしもと（東京都）",
+      "venue": "ルミネtheよしもと（東京都）",
       "pref": "東京都",
-      "date": "2026/10/29(木)",
-      "url": "https://ticket.fany.lol/reception/67522/53753",
-      "sale_url": "https://ticket.fany.lol/reception/67522/53753",
-      "matched": "素敵じゃないか",
-      "start": "2026/09/17 10:00",
-      "start_iso": "2026-09-17T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
+      "date": "2026/10/21(水)",
+      "url": "https://ticket.fany.lol/reception/67611/53845",
+      "sale_url": "https://ticket.fany.lol/reception/67611/53845",
+      "matched": "CITY",
+      "start": "2026/09/20 10:00",
+      "start_iso": "2026-09-20T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
     }
   }
 }
