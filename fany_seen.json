@@ -1677,51 +1677,6 @@
     }
   },
   "sales": {
-    "53588|2026-09-19T10:00:00+09:00": {
-      "event_id": "53588",
-      "title": "東京爆音漫才選集",
-      "title_venue": "東京爆音漫才選集 豊洲PIT（東京都）",
-      "venue": "豊洲PIT（東京都）",
-      "pref": "東京都",
-      "date": "2026/11/06(金)",
-      "url": "https://ticket.fany.lol/reception/67180/53588",
-      "sale_url": "https://ticket.fany.lol/reception/67180/53588",
-      "matched": "ドンデコルテ",
-      "start": "2026/09/19 10:00",
-      "start_iso": "2026-09-19T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "53601|2026-09-19T10:00:00+09:00": {
-      "event_id": "53601",
-      "title": "旭川漫才選集",
-      "title_venue": "旭川漫才選集 旭川市民文化会館　大ホール（北海道）",
-      "venue": "旭川市民文化会館　大ホール（北海道）",
-      "pref": "北海道",
-      "date": "2026/11/23(月・祝)",
-      "url": "https://ticket.fany.lol/reception/67207/53601",
-      "sale_url": "https://ticket.fany.lol/reception/67207/53601",
-      "matched": "ドンデコルテ",
-      "start": "2026/09/19 10:00",
-      "start_iso": "2026-09-19T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "53602|2026-09-19T10:00:00+09:00": {
-      "event_id": "53602",
-      "title": "旭川漫才選集",
-      "title_venue": "旭川漫才選集 旭川市民文化会館　大ホール（北海道）",
-      "venue": "旭川市民文化会館　大ホール（北海道）",
-      "pref": "北海道",
-      "date": "2026/11/23(月・祝)",
-      "url": "https://ticket.fany.lol/reception/67207/53602",
-      "sale_url": "https://ticket.fany.lol/reception/67207/53602",
-      "matched": "ドンデコルテ",
-      "start": "2026/09/19 10:00",
-      "start_iso": "2026-09-19T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "53730|2026-09-20T10:00:00+09:00": {
       "event_id": "53730",
       "title": "CITY石井のお誕生日プレゼント獲得チャレンジ☆",
