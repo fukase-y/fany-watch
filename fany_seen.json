@@ -1542,36 +1542,6 @@
     }
   },
   "sales": {
-    "53730|2026-09-20T10:00:00+09:00": {
-      "event_id": "53730",
-      "title": "CITY石井のお誕生日プレゼント獲得チャレンジ☆",
-      "title_venue": "CITY石井のお誕生日プレゼント獲得チャレンジ☆ 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/10/17(土)",
-      "url": "https://ticket.fany.lol/reception/67463/53730",
-      "sale_url": "https://ticket.fany.lol/reception/67463/53730",
-      "matched": "CITY",
-      "start": "2026/09/20 10:00",
-      "start_iso": "2026-09-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "53845|2026-09-20T10:00:00+09:00": {
-      "event_id": "53845",
-      "title": "NANIWA NETA JAM",
-      "title_venue": "NANIWA NETA JAM ルミネtheよしもと（東京都）",
-      "venue": "ルミネtheよしもと（東京都）",
-      "pref": "東京都",
-      "date": "2026/10/21(水)",
-      "url": "https://ticket.fany.lol/reception/67611/53845",
-      "sale_url": "https://ticket.fany.lol/reception/67611/53845",
-      "matched": "CITY",
-      "start": "2026/09/20 10:00",
-      "start_iso": "2026-09-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "54235|2026-10-10T10:00:00+09:00": {
       "event_id": "54235",
       "title": "動物トークライブ　秋の貂",
