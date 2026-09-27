@@ -1899,6 +1899,33 @@
       "date": "2026/10/30(金)",
       "cast": "守谷日和\nゲスト：おしみんまる、CITY、ネコニスズ",
       "notified": true
+    },
+    "54775": {
+      "title": "五反田会～マジで写真集作るってよ～",
+      "url": "https://ticket.fany.lol/reception/69240/54775",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/11/02(月)",
+      "cast": "トット 多田智佑／マルセイユ 津田康平／シシガシラ 浜中英昌／CITY 小野竜輔／ケビンス 山口コンボイ／カメラマンゲスト：田津原理音",
+      "notified": true
+    },
+    "54659": {
+      "title": "全国JAPAN",
+      "url": "https://ticket.fany.lol/reception/68852/54659",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/11/26(木)",
+      "cast": "CITY／アイロンヘッド／からし蓮根",
+      "notified": true
+    },
+    "54658": {
+      "title": "企画JAPAN－青空担当回－",
+      "url": "https://ticket.fany.lol/reception/68853/54658",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/11/26(木)",
+      "cast": "CITY／アイロンヘッド／からし蓮根",
+      "notified": true
     }
   },
   "sales": {
@@ -2890,6 +2917,51 @@
       "start": "2026/09/27 10:00",
       "start_iso": "2026-09-27T10:00:00+09:00",
       "r1_sent": true,
+      "r2_sent": false
+    },
+    "54775|2026-10-01T10:00:00+09:00": {
+      "event_id": "54775",
+      "title": "五反田会～マジで写真集作るってよ～",
+      "title_venue": "五反田会～マジで写真集作るってよ～ よしもと幕張イオンモール劇場（千葉県）",
+      "venue": "よしもと幕張イオンモール劇場（千葉県）",
+      "pref": "千葉県",
+      "date": "2026/11/02(月)",
+      "url": "https://ticket.fany.lol/reception/69240/54775",
+      "sale_url": "https://ticket.fany.lol/reception/69242/54775",
+      "matched": "CITY",
+      "start": "2026/10/01 10:00",
+      "start_iso": "2026-10-01T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "54659|2026-10-02T10:00:00+09:00": {
+      "event_id": "54659",
+      "title": "全国JAPAN",
+      "title_venue": "全国JAPAN 大宮ラクーンよしもと劇場（埼玉県）",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/11/26(木)",
+      "url": "https://ticket.fany.lol/reception/68852/54659",
+      "sale_url": "https://ticket.fany.lol/reception/68852/54659",
+      "matched": "CITY",
+      "start": "2026/10/02 10:00",
+      "start_iso": "2026-10-02T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "54658|2026-10-02T10:00:00+09:00": {
+      "event_id": "54658",
+      "title": "企画JAPAN－青空担当回－",
+      "title_venue": "企画JAPAN－青空担当回－ 大宮ラクーンよしもと劇場（埼玉県）",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/11/26(木)",
+      "url": "https://ticket.fany.lol/reception/68853/54658",
+      "sale_url": "https://ticket.fany.lol/reception/68853/54658",
+      "matched": "CITY",
+      "start": "2026/10/02 10:00",
+      "start_iso": "2026-10-02T10:00:00+09:00",
+      "r1_sent": false,
       "r2_sent": false
     }
   }
