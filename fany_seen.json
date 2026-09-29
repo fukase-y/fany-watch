@@ -1845,36 +1845,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "54525|2026-09-27T10:00:00+09:00": {
-      "event_id": "54525",
-      "title": "大喜利 AND THE CITY",
-      "title_venue": "大喜利 AND THE CITY よしもと幕張イオンモール劇場（千葉県）",
-      "venue": "よしもと幕張イオンモール劇場（千葉県）",
-      "pref": "千葉県",
-      "date": "2026/11/05(木)",
-      "url": "https://ticket.fany.lol/reception/68573/54525",
-      "sale_url": "https://ticket.fany.lol/reception/68573/54525",
-      "matched": "CITY",
-      "start": "2026/09/27 10:00",
-      "start_iso": "2026-09-27T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "54526|2026-09-27T10:00:00+09:00": {
-      "event_id": "54526",
-      "title": "コーナー AND THE CITY",
-      "title_venue": "コーナー AND THE CITY よしもと幕張イオンモール劇場（千葉県）",
-      "venue": "よしもと幕張イオンモール劇場（千葉県）",
-      "pref": "千葉県",
-      "date": "2026/11/05(木)",
-      "url": "https://ticket.fany.lol/reception/68577/54526",
-      "sale_url": "https://ticket.fany.lol/reception/68577/54526",
-      "matched": "CITY",
-      "start": "2026/09/27 10:00",
-      "start_iso": "2026-09-27T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "54121|2026-10-05T10:00:00+09:00": {
       "event_id": "54121",
       "title": "幕張平日ネタＳＰ１４時",
@@ -2789,21 +2759,6 @@
       "start_iso": "2026-10-05T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
-    },
-    "54707|2026-09-27T10:00:00+09:00": {
-      "event_id": "54707",
-      "title": "下北ウホウホ",
-      "title_venue": "下北ウホウホ 下北沢シアターミネルヴァ（東京都）",
-      "venue": "下北沢シアターミネルヴァ（東京都）",
-      "pref": "東京都",
-      "date": "2026/10/30(金)",
-      "url": "https://ticket.fany.lol/reception/69002/54707",
-      "sale_url": "https://ticket.fany.lol/reception/69002/54707",
-      "matched": "CITY",
-      "start": "2026/09/27 10:00",
-      "start_iso": "2026-09-27T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
     },
     "54775|2026-10-01T10:00:00+09:00": {
       "event_id": "54775",
