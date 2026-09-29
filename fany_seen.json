@@ -1905,7 +1905,7 @@
       "matched": "ドンデコルテ",
       "start": "2026/09/30 10:00",
       "start_iso": "2026-09-30T10:00:00+09:00",
-      "r1_sent": false,
+      "r1_sent": true,
       "r2_sent": false
     },
     "54113|2026-10-05T10:00:00+09:00": {
@@ -2835,8 +2835,8 @@
       "matched": "ドンデコルテ",
       "start": "2026/09/29 10:00",
       "start_iso": "2026-09-29T10:00:00+09:00",
-      "r1_sent": false,
-      "r2_sent": false
+      "r1_sent": true,
+      "r2_sent": true
     }
   }
 }
