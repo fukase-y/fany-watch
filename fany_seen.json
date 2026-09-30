@@ -1897,7 +1897,7 @@
       "start": "2026/09/30 10:00",
       "start_iso": "2026-09-30T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "54113|2026-10-05T10:00:00+09:00": {
       "event_id": "54113",
@@ -2841,8 +2841,8 @@
       "matched": "CITY／素敵じゃないか",
       "start": "2026/09/30 10:00",
       "start_iso": "2026-09-30T10:00:00+09:00",
-      "r1_sent": false,
-      "r2_sent": false
+      "r1_sent": true,
+      "r2_sent": true
     }
   }
 }
