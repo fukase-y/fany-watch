@@ -2799,21 +2799,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "54775|2026-10-01T10:00:00+09:00": {
-      "event_id": "54775",
-      "title": "五反田会～マジで写真集作るってよ～",
-      "title_venue": "五反田会～マジで写真集作るってよ～ よしもと幕張イオンモール劇場（千葉県）",
-      "venue": "よしもと幕張イオンモール劇場（千葉県）",
-      "pref": "千葉県",
-      "date": "2026/11/02(月)",
-      "url": "https://ticket.fany.lol/reception/69242/54775",
-      "sale_url": "https://ticket.fany.lol/reception/69242/54775",
-      "matched": "CITY",
-      "start": "2026/10/01 10:00",
-      "start_iso": "2026-10-01T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "54659|2026-10-02T10:00:00+09:00": {
       "event_id": "54659",
       "title": "全国JAPAN",
@@ -2887,7 +2872,7 @@
       "start": "2026/10/03 09:00",
       "start_iso": "2026-10-03T09:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "54826|2026-10-10T10:00:00+09:00": {
       "event_id": "54826",
