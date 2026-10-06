@@ -952,7 +952,7 @@
       "venue": "渋谷よしもと漫才劇場（東京都）",
       "pref": "東京都",
       "date": "2026/10/12(月・祝)",
-      "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／スーパーサイズ・ミー／ド桜／大王",
+      "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／スーパーサイズ・ミー／ド桜／大王\r\n[ コーナー出演者]",
       "notified": true
     },
     "52368": {
@@ -961,7 +961,7 @@
       "venue": "渋谷よしもと漫才劇場（東京都）",
       "pref": "東京都",
       "date": "2026/10/12(月・祝)",
-      "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／スーパーサイズ・ミー／大王／他",
+      "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／スーパーサイズ・ミー／世間知らズ／大王\r\n[ コーナー出演者]",
       "notified": true
     },
     "52369": {
@@ -970,7 +970,7 @@
       "venue": "渋谷よしもと漫才劇場（東京都）",
       "pref": "東京都",
       "date": "2026/10/12(月・祝)",
-      "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／田津原理音／スーパーサイズ・ミー／大王",
+      "cast": "[ネタ＆コーナーライブ]ツートライブ／ビスケットブラザーズ／ドンデコルテ／めぞん／ケビンス／シカゴ実業／キンボシ／まんじろう／田津原理音／スーパーサイズ・ミー／大王\r\n[ コーナー出演者]",
       "notified": true
     },
     "53845": {
@@ -979,7 +979,7 @@
       "venue": "ルミネtheよしもと（東京都）",
       "pref": "東京都",
       "date": "2026/10/21(水)",
-      "cast": "ヘンダーソン／セルライトスパ／CITY／蛙亭／からし蓮根／シモリュウ／ダブルヒガシ／カベポスター／他",
+      "cast": "ヘンダーソン／セルライトスパ／CITY／蛙亭／からし蓮根／シモリュウ／ダブルヒガシ／カベポスター",
       "notified": true
     },
     "54235": {
@@ -2779,7 +2779,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/11/03(火・祝)",
-      "url": "https://ticket.fany.lol/reception/70061/55097",
+      "url": "https://ticket.fany.lol/reception/70063/55097",
       "sale_url": "https://ticket.fany.lol/reception/70063/55097",
       "matched": "CITY",
       "start": "2026/10/11 10:00",
@@ -2794,7 +2794,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/11/03(火・祝)",
-      "url": "https://ticket.fany.lol/reception/70061/55098",
+      "url": "https://ticket.fany.lol/reception/70063/55098",
       "sale_url": "https://ticket.fany.lol/reception/70063/55098",
       "matched": "CITY",
       "start": "2026/10/11 10:00",
@@ -2809,7 +2809,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/11/03(火・祝)",
-      "url": "https://ticket.fany.lol/reception/70061/55099",
+      "url": "https://ticket.fany.lol/reception/70063/55099",
       "sale_url": "https://ticket.fany.lol/reception/70063/55099",
       "matched": "CITY",
       "start": "2026/10/11 10:00",
@@ -2824,7 +2824,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/11/22(日)",
-      "url": "https://ticket.fany.lol/reception/70061/55108",
+      "url": "https://ticket.fany.lol/reception/70063/55108",
       "sale_url": "https://ticket.fany.lol/reception/70063/55108",
       "matched": "CITY",
       "start": "2026/10/11 10:00",
@@ -2839,7 +2839,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/11/22(日)",
-      "url": "https://ticket.fany.lol/reception/70061/55109",
+      "url": "https://ticket.fany.lol/reception/70063/55109",
       "sale_url": "https://ticket.fany.lol/reception/70063/55109",
       "matched": "CITY",
       "start": "2026/10/11 10:00",
@@ -2854,7 +2854,7 @@
       "venue": "よしもと幕張イオンモール劇場（千葉県）",
       "pref": "千葉県",
       "date": "2026/11/22(日)",
-      "url": "https://ticket.fany.lol/reception/70061/55110",
+      "url": "https://ticket.fany.lol/reception/70063/55110",
       "sale_url": "https://ticket.fany.lol/reception/70063/55110",
       "matched": "CITY",
       "start": "2026/10/11 10:00",
