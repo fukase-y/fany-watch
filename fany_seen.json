@@ -460,24 +460,6 @@
       "cast": "[企画ライブ]kento fukaya／CITY／カラタチ／ダブルヒガシ",
       "notified": true
     },
-    "53748": {
-      "title": "おおみや夕方寄席",
-      "url": "https://ticket.fany.lol/reception/67503/53748",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/10/19(月)",
-      "cast": "囲碁将棋／ジェラードン／アイロンヘッド／ドンデコルテ／エバース",
-      "notified": true
-    },
-    "53747": {
-      "title": "ROCK NETA FES★～芸人がロックフェスの雰囲気でネタを・・・",
-      "url": "https://ticket.fany.lol/reception/67507/53747",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/10/19(月)",
-      "cast": "囲碁将棋／ジェラードン／アイロンヘッド／ドンデコルテ／エバース",
-      "notified": true
-    },
     "53753": {
       "title": "日本語漫才協会",
       "url": "https://ticket.fany.lol/reception/67522/53753",
@@ -1521,6 +1503,15 @@
       "date": "2026/11/29(日)",
       "cast": "見取り図／ゲスト：トット／ジェラードン／マユリカ／ドンデコルテ",
       "notified": true
+    },
+    "56317": {
+      "title": "CITY×ジェラードンツーマンライブ「おともだち」",
+      "url": "https://ticket.fany.lol/reception/71421/56317",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/11/08(日)",
+      "cast": "CITY／ジェラードン",
+      "notified": true
     }
   },
   "sales": {
@@ -1671,6 +1662,21 @@
       "matched": "ドンデコルテ",
       "start": "2026/10/29 10:00",
       "start_iso": "2026-10-29T10:00:00+09:00",
+      "r1_sent": false,
+      "r2_sent": false
+    },
+    "56317|2026-10-25T10:00:00+09:00": {
+      "event_id": "56317",
+      "title": "CITY×ジェラードンツーマンライブ「おともだち」",
+      "title_venue": "CITY×ジェラードンツーマンライブ「おともだち」 大宮ラクーンよしもと劇場（埼玉県）",
+      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
+      "pref": "埼玉県",
+      "date": "2026/11/08(日)",
+      "url": "https://ticket.fany.lol/reception/71421/56317",
+      "sale_url": "https://ticket.fany.lol/reception/71423/56317",
+      "matched": "CITY",
+      "start": "2026/10/25 10:00",
+      "start_iso": "2026-10-25T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
     }
