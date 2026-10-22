@@ -1566,51 +1566,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "55435|2026-10-20T10:00:00+09:00": {
-      "event_id": "55435",
-      "title": "福岡よしもとお笑いライブ",
-      "title_venue": "福岡よしもとお笑いライブ よしもと福岡 大和証券劇場（福岡県）",
-      "venue": "よしもと福岡 大和証券劇場（福岡県）",
-      "pref": "福岡県",
-      "date": "2026/12/05(土)",
-      "url": "https://ticket.fany.lol/reception/70762/55435",
-      "sale_url": "https://ticket.fany.lol/reception/70762/55435",
-      "matched": "ドンデコルテ",
-      "start": "2026/10/20 10:00",
-      "start_iso": "2026-10-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "55441|2026-10-20T10:00:00+09:00": {
-      "event_id": "55441",
-      "title": "福岡よしもとお笑いライブ",
-      "title_venue": "福岡よしもとお笑いライブ よしもと福岡 大和証券劇場（福岡県）",
-      "venue": "よしもと福岡 大和証券劇場（福岡県）",
-      "pref": "福岡県",
-      "date": "2026/12/05(土)",
-      "url": "https://ticket.fany.lol/reception/70762/55441",
-      "sale_url": "https://ticket.fany.lol/reception/70762/55441",
-      "matched": "ドンデコルテ",
-      "start": "2026/10/20 10:00",
-      "start_iso": "2026-10-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "55447|2026-10-20T10:00:00+09:00": {
-      "event_id": "55447",
-      "title": "福岡よしもとお笑いライブ",
-      "title_venue": "福岡よしもとお笑いライブ よしもと福岡 大和証券劇場（福岡県）",
-      "venue": "よしもと福岡 大和証券劇場（福岡県）",
-      "pref": "福岡県",
-      "date": "2026/12/05(土)",
-      "url": "https://ticket.fany.lol/reception/70762/55447",
-      "sale_url": "https://ticket.fany.lol/reception/70762/55447",
-      "matched": "ドンデコルテ",
-      "start": "2026/10/20 10:00",
-      "start_iso": "2026-10-20T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "55959|2026-10-29T10:00:00+09:00": {
       "event_id": "55959",
       "title": "池袋ア・ラ・モード",
@@ -1654,7 +1609,7 @@
       "start": "2026/10/22 10:00",
       "start_iso": "2026-10-22T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "56135|2026-10-22T10:00:00+09:00": {
       "event_id": "56135",
@@ -1669,7 +1624,7 @@
       "start": "2026/10/22 10:00",
       "start_iso": "2026-10-22T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "56136|2026-10-22T10:00:00+09:00": {
       "event_id": "56136",
@@ -1684,7 +1639,7 @@
       "start": "2026/10/22 10:00",
       "start_iso": "2026-10-22T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "56102|2026-10-29T10:00:00+09:00": {
       "event_id": "56102",
