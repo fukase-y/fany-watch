@@ -1554,21 +1554,6 @@
       "r1_sent": false,
       "r2_sent": false
     },
-    "56104|2026-10-21T10:00:00+09:00": {
-      "event_id": "56104",
-      "title": "益々荘ライブ～season9忘年会スペシャル～",
-      "title_venue": "益々荘ライブ～season9忘年会スペシャル～ ルミネtheよしもと（東京都）",
-      "venue": "ルミネtheよしもと（東京都）",
-      "pref": "東京都",
-      "date": "2026/12/04(金)",
-      "url": "https://ticket.fany.lol/reception/71127/56104",
-      "sale_url": "https://ticket.fany.lol/reception/71127/56104",
-      "matched": "ドンデコルテ／渡辺銀次",
-      "start": "2026/10/21 10:00",
-      "start_iso": "2026-10-21T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
     "56134|2026-10-22T10:00:00+09:00": {
       "event_id": "56134",
       "title": "おおみや秋ネタまつり！",
