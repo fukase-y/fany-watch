@@ -1528,7 +1528,7 @@
       "start": "2026/10/24 10:00",
       "start_iso": "2026-10-24T10:00:00+09:00",
       "r1_sent": true,
-      "r2_sent": false
+      "r2_sent": true
     },
     "55959|2026-10-29T10:00:00+09:00": {
       "event_id": "55959",
@@ -1544,51 +1544,6 @@
       "start_iso": "2026-10-29T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
-    },
-    "56134|2026-10-22T10:00:00+09:00": {
-      "event_id": "56134",
-      "title": "おおみや秋ネタまつり！",
-      "title_venue": "おおみや秋ネタまつり！ 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/11/08(日)",
-      "url": "https://ticket.fany.lol/reception/71211/56134",
-      "sale_url": "https://ticket.fany.lol/reception/71211/56134",
-      "matched": "CITY",
-      "start": "2026/10/22 10:00",
-      "start_iso": "2026-10-22T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "56135|2026-10-22T10:00:00+09:00": {
-      "event_id": "56135",
-      "title": "令和罰ゲーム委員会！～まさかの罰ゲームがメインのコーナ・・・",
-      "title_venue": "令和罰ゲーム委員会！～まさかの罰ゲームがメインのコーナ・・・ 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/11/08(日)",
-      "url": "https://ticket.fany.lol/reception/71217/56135",
-      "sale_url": "https://ticket.fany.lol/reception/71217/56135",
-      "matched": "CITY",
-      "start": "2026/10/22 10:00",
-      "start_iso": "2026-10-22T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "56136|2026-10-22T10:00:00+09:00": {
-      "event_id": "56136",
-      "title": "ジェラードンのこれまでの歩みを占いで振り返ろう",
-      "title_venue": "ジェラードンのこれまでの歩みを占いで振り返ろう 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/11/08(日)",
-      "url": "https://ticket.fany.lol/reception/71218/56136",
-      "sale_url": "https://ticket.fany.lol/reception/71218/56136",
-      "matched": "CITY",
-      "start": "2026/10/22 10:00",
-      "start_iso": "2026-10-22T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
     },
     "56102|2026-10-29T10:00:00+09:00": {
       "event_id": "56102",
