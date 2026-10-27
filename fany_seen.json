@@ -1418,21 +1418,6 @@
       "start_iso": "2026-10-29T10:00:00+09:00",
       "r1_sent": false,
       "r2_sent": false
-    },
-    "56317|2026-10-25T10:00:00+09:00": {
-      "event_id": "56317",
-      "title": "CITY×ジェラードンツーマンライブ「おともだち」",
-      "title_venue": "CITY×ジェラードンツーマンライブ「おともだち」 大宮ラクーンよしもと劇場（埼玉県）",
-      "venue": "大宮ラクーンよしもと劇場（埼玉県）",
-      "pref": "埼玉県",
-      "date": "2026/11/08(日)",
-      "url": "https://ticket.fany.lol/reception/71421/56317",
-      "sale_url": "https://ticket.fany.lol/reception/71423/56317",
-      "matched": "CITY",
-      "start": "2026/10/25 10:00",
-      "start_iso": "2026-10-25T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
     }
   }
 }
