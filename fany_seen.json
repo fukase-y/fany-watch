@@ -1325,36 +1325,5 @@
       "notified": true
     }
   },
-  "sales": {
-    "55959|2026-10-29T10:00:00+09:00": {
-      "event_id": "55959",
-      "title": "池袋ア・ラ・モード",
-      "title_venue": "池袋ア・ラ・モード 東京建物 Brillia HALL（東京都）",
-      "venue": "東京建物 Brillia HALL（東京都）",
-      "pref": "東京都",
-      "date": "2026/11/21(土)",
-      "url": "https://ticket.fany.lol/reception/71033/55959",
-      "sale_url": "https://ticket.fany.lol/reception/71033/55959",
-      "matched": "ドンデコルテ",
-      "start": "2026/10/29 10:00",
-      "start_iso": "2026-10-29T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    },
-    "56102|2026-10-29T10:00:00+09:00": {
-      "event_id": "56102",
-      "title": "見取り図プレゼンツ「脱獄ダ！」",
-      "title_venue": "見取り図プレゼンツ「脱獄ダ！」 ルミネtheよしもと（東京都）",
-      "venue": "ルミネtheよしもと（東京都）",
-      "pref": "東京都",
-      "date": "2026/11/29(日)",
-      "url": "https://ticket.fany.lol/reception/71366/56102",
-      "sale_url": "https://ticket.fany.lol/reception/71117/56102",
-      "matched": "ドンデコルテ",
-      "start": "2026/10/29 10:00",
-      "start_iso": "2026-10-29T10:00:00+09:00",
-      "r1_sent": true,
-      "r2_sent": true
-    }
-  }
+  "sales": {}
 }
